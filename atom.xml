@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CCXRR</title>
+  <icon>https://ccxrr.github.io/icon.png</icon>
+  <subtitle>CCXRR’s Personal blog</subtitle>
+  <link href="https://ccxrr.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://ccxrr.github.io/"/>
+  <updated>2021-03-24T14:02:53.497Z</updated>
+  <id>https://ccxrr.github.io/</id>
+  
+  <author>
+    <name>Mr.Chen</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my</title>
+    <link href="https://ccxrr.github.io/2021/03/24/my/"/>
+    <id>https://ccxrr.github.io/2021/03/24/my/</id>
+    <published>2021-03-24T13:26:36.000Z</published>
+    <updated>2021-03-24T14:02:53.497Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2021/03/24/my/1.jpg&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>自我介绍</title>
+    <link href="https://ccxrr.github.io/2021/03/23/hello-world/"/>
+    <id>https://ccxrr.github.io/2021/03/23/hello-world/</id>
+    <published>2021-03-23T14:04:00.000Z</published>
+    <updated>2021-03-24T07:46:55.317Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;欢迎来到我的博客&quot;&gt;&lt;a href=&quot;#欢迎来到我的博客&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>博客名字</title>
+    <link href="https://ccxrr.github.io/2021/03/22/%E5%8D%9A%E5%AE%A2%E5%90%8D%E5%AD%97/"/>
+    <id>https://ccxrr.github.io/2021/03/22/%E5%8D%9A%E5%AE%A2%E5%90%8D%E5%AD%97/</id>
+    <published>2021-03-22T15:26:03.000Z</published>
+    <updated>2021-03-24T13:31:37.697Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2021/03/22/%E5%8D%9A%E5%AE%A2%E5%90%8D%E5%AD%97/web\blog\source\images\1.jpg&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
