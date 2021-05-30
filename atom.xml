@@ -6,7 +6,7 @@
   <link href="https://ccxrr.github.io/atom.xml" rel="self"/>
   
   <link href="https://ccxrr.github.io/"/>
-  <updated>2021-05-30T13:21:52.233Z</updated>
+  <updated>2021-05-30T14:41:20.711Z</updated>
   <id>https://ccxrr.github.io/</id>
   
   <author>
@@ -21,18 +21,21 @@
     <link href="https://ccxrr.github.io/2021/05/30/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D/"/>
     <id>https://ccxrr.github.io/2021/05/30/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D/</id>
     <published>2021-05-30T13:19:16.000Z</published>
-    <updated>2021-05-30T13:21:52.233Z</updated>
+    <updated>2021-05-30T14:41:20.711Z</updated>
     
     
-      
-      
-        
-        
     <summary type="html">&lt;h1 id=&quot;DAY-2&quot;&gt;&lt;a href=&quot;#DAY-2&quot; class=&quot;headerlink&quot; title=&quot;DAY 2&quot;&gt;&lt;/a&gt;DAY 2&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;group 1&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;acting 表演 演艺业 演技</summary>
-        
-      
+&lt;li&gt;acting 表演 演艺业 演技 临时的 代理的&lt;/li&gt;
+&lt;li&gt;beam 光束 光线 横梁 发射&lt;/li&gt;
+&lt;li&gt;shed 去除 流泪&lt;/li&gt;
+&lt;li&gt;grant 准许 承认 拨款&lt;/li&gt;
+&lt;li&gt;educational 与教育相关的 有教育意义的&lt;/li&gt;
+&lt;li&gt;competitive  竞争的 有竞争力的 好胜的&lt;/li&gt;
+&lt;li&gt;involvement 参与 介入 投入感情&lt;/li&gt;
+&lt;li&gt;edit 编辑 校订&lt;/li&gt;
+&lt;li&gt;detail 细节 详情 资料信息&lt;/li&gt;
+&lt;li&gt;comparison 比较 对比&lt;/li&gt;&lt;/ul&gt;</summary>
     
     
     
@@ -48,17 +51,14 @@
     <link href="https://ccxrr.github.io/2021/03/28/Front-end-design-note/"/>
     <id>https://ccxrr.github.io/2021/03/28/Front-end-design-note/</id>
     <published>2021-03-28T02:36:08.000Z</published>
-    <updated>2021-03-28T06:27:45.787Z</updated>
+    <updated>2021-05-30T14:41:32.218Z</updated>
     
     
-      
-      
-        
-        
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;教学视频:&lt;a</summary>
-        
-      
+&lt;p&gt;教学视频:&lt;a href=&quot;https://www.bilibili.com/video/BV14J4114768?p=212&quot;&gt;https://www.bilibili.com/video/BV14J4114768?p=212&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;笔记从P212开始记录之前笔记内容可参考以下链接：&lt;/p&gt;
+&lt;p&gt;「学习笔记」HTML基础:&lt;a href=&quot;https://mp.weixin.qq.com/s/lNkLbVL8qWsay8c3krVL8A&quot;&gt;https://mp.weixin.qq.com/s/lNkLbVL8qWsay8c3krVL8A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;「学习笔记」CSS基础:&lt;a href=&quot;https://mp.weixin.qq.com/s/zhi3cSU0k4DlHLerta9XXQ&quot;&gt;https://mp.weixin.qq.com/s/zhi3cSU0k4DlHLerta9XXQ&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</summary>
     
     
     
@@ -76,17 +76,11 @@
     <link href="https://ccxrr.github.io/2021/03/27/preface1/"/>
     <id>https://ccxrr.github.io/2021/03/27/preface1/</id>
     <published>2021-03-27T05:44:39.000Z</published>
-    <updated>2021-03-28T06:24:31.769Z</updated>
+    <updated>2021-05-30T14:38:38.024Z</updated>
     
     
-      
-      
-        
-        
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2021/03/27/vUVWtnsCgcPrBFM.jpg&quot; alt=&quot;image1&quot;&gt;&lt;/p&gt;
-&lt;h1 id=&quot;关于我为什么要搭建个人博客&quot;&gt;&lt;a href=&quot;#关于我为什么要搭建个人博客&quot;</summary>
-        
-      
+&lt;h1 id=&quot;关于我为什么要搭建个人博客&quot;&gt;&lt;a href=&quot;#关于我为什么要搭建个人博客&quot; class=&quot;headerlink&quot; title=&quot;关于我为什么要搭建个人博客&quot;&gt;&lt;/a&gt;关于我为什么要搭建个人博客&lt;/h1&gt;&lt;p&gt;​    在经历大约一周的个人blog搭建基础工作后我终于能够在此写下第一笔。构思许久，我觉的有必要在前言的开头处写下我搭建blog的原因。&lt;/p&gt;</summary>
     
     
     
