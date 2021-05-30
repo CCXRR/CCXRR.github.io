@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
   <script src="https://ccxrr.github.io/live2d-widget/autoload.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.css"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
   <script src="/live2d-widget/autoload.js"></script>
   <meta charset="UTF-8">
@@ -213,20 +213,20 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">2</span>
+          <span class="site-state-item-count">3</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
       <div class="site-state-item site-state-categories">
             <a href="/categories/">
           
-        <span class="site-state-item-count">2</span>
+        <span class="site-state-item-count">3</span>
         <span class="site-state-item-name">分类</span></a>
       </div>
       <div class="site-state-item site-state-tags">
             <a href="/tags/">
           
-        <span class="site-state-item-count">3</span>
+        <span class="site-state-item-count">4</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
@@ -299,6 +299,7 @@
     
 
 
+    <div class="comments utterances-container"></div>
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -342,7 +343,7 @@
       <i class="fa fa-chart-line"></i>
     </span>
       <span>站点总字数：</span>
-    <span title="站点总字数">4k</span>
+    <span title="站点总字数">6k</span>
   </span>
 </div>
 
@@ -368,7 +369,7 @@
       &nbsp&nbsp
       <div class="theme-info" style="display: inline-block;">
       <div class="powered-by"></div>
-      <span class="post-count">博客全站共2.1k字</span>
+      <span class="post-count">博客全站共3k字</span>
       </div>
 
     </span>
@@ -400,6 +401,19 @@
 
 
 
+
+<script>
+NexT.utils.loadComments('.utterances-container', () => {
+  const script = document.createElement('script');
+  script.src = 'https://utteranc.es/client.js';
+  script.setAttribute('repo', "CCXRR/CCXRR.github.io");
+  script.setAttribute('issue-term', "pathname");
+  script.setAttribute('theme', "github-light");
+  script.crossOrigin = 'anonymous';
+  script.async = true;
+  document.querySelector('.utterances-container').appendChild(script);
+});
+</script>
 
 
   <!--单击显示文字-->
