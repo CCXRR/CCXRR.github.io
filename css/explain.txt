@@ -1,0 +1,14 @@
+schemes - 计划 
+可理解为主题
+
+css -> _common -> scaffolding -> buttons.styl 
+内的.btn是用于更改首页的阅读全文标签的
+
+css -> _common -> components -> back-to-top.styl
+的.back-to-top 是用于更改右下角回顶端按钮
+
+D:\web\blog\themes\next\source\css\_variables\Gemini.styl 
+更改文章边框阴影等
+
+css -> _common -> outline -> header -> index.styl中.site-brand-container
+更改菜单上方block属性
